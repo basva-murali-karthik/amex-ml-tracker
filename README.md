@@ -53,9 +53,6 @@ streamlit run dashboard.py
 
 See **[DEPLOY.md](DEPLOY.md)** for **Streamlit Community Cloud** and **Docker** (e.g. GCP Cloud Run). You need to **push the repo to GitHub** and connect it in the Streamlit Cloud UI—this cannot be automated from here.
 
-## Interview angle
-
-Maps to PS-II style work: **logging**, **failure/utilization visibility**, **stage latency**, **reproducibility**, and a path to **BigQuery + GCP** at enterprise scale.
 
 ---
 
